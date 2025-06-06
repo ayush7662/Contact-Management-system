@@ -1,6 +1,6 @@
 # 📇 Contact Management System (Web-based)
 
-A simple Contact Management System built using **HTML**, **CSS**, and **JavaScript** that runs directly in your browser.
+A simple Contact Management System built using **python** that runs directly in your browser.
 It allows users to add, view, edit, and delete contacts with persistent storage using `localStorage`.
 
 ## 🚀 Features
